@@ -10,4 +10,4 @@
 
 #### Screenshoots:
 
-![home_audio_on](screenshots/audio_on.jpeg) ![home_audio_off](screenshots/audio_off.jpeg)
+![home_audio_on](screenshots/audio_on.jpeg)
