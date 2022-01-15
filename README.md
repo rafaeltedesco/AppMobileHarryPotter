@@ -8,6 +8,6 @@
 - Audio Button (On / Off) - Plays music theme from movie;
 - A touch in each "house" from shield redirect to the chosen house page;
 
-#### Screenshoots:
+#### Screenshots:
 
 ![home_audio_on](screenshots/audio_on.jpeg)
